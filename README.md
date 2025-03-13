@@ -2,7 +2,7 @@
 
 [![lennrt's stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lennrt&theme=nord_bright)](https://github.com/lennrt)
 
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left">Primary Languages, Tools, and Platforms</h3>
 <p align="left">
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original-wordmark.svg"
@@ -76,12 +76,6 @@
       width="40"
       height="40"
     /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    /></a>    
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
       alt="postgresql"
@@ -106,18 +100,18 @@
       width="40"
       height="40"
     /></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="40"
-      height="40"
-    /></a>
   <a href="https://temporal.io/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
       src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/temporal.svg"
       alt="temporal"
       width="40"
       height="40"
     /></a>
+  <a href="https://www.openapis.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/openapi/openapi-original.svg"
+      alt="openapi"
+      width="40"
+      height="40"
+    /></a>  
   <a href="https://www.openpolicyagent.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
       src="https://www.vectorlogo.zone/logos/openpolicyagent/openpolicyagent-icon.svg"
       alt="opa"
@@ -142,24 +136,6 @@
       width="40"
       height="40"
     /></a>
-  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg"
-      alt="latex"
-      width="40"
-      height="40"
-    /></a>
-  <a href="https://daringfireball.net/projects/markdown/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg"
-      alt="markdown"
-      width="40"
-      height="40"
-    /></a>
-  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"
-      alt="java"
-      width="40"
-      height="40"
-    /></a>
   <a href="https://prometheus.io/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original-wordmark.svg"
       alt="promql"
@@ -172,6 +148,12 @@
       width="40"
       height="40"
     /></a>
+  <a href="https://www.snowflake.com/en/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
+      src="https://cdn.brandfetch.io/idJz-fGD_q/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B"
+      alt="snowflake"
+      width="40"
+      height="40"
+    /></a>  
 </p>
 
 <h3 align="left"> Links 🌐 🔗</h3>
